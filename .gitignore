@@ -1,11 +1,8 @@
-# node / vite
 node_modules
 dist
 
-# python
 .venv
 __pycache__
 
-# misc
 .DS_Store
 .env
